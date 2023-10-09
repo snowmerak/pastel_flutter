@@ -1,0 +1,18 @@
+name: pastel_flutter
+description: A pastel libraries for flutter.
+version: 0.0.1
+repository: https://github.com/snowmerak/pastel_flutter
+
+environment:
+  sdk: ^3.1.2
+
+# Add regular dependencies here.
+dependencies:
+  flutter:
+    sdk: flutter
+  pastel: ^0.6.2
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
